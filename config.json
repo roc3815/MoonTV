@@ -76,7 +76,7 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
      "精品资源": {
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "name": "精品资源",
